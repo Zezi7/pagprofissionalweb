@@ -1,0 +1,50 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+    list-style: none;
+}
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #ffcc00;
+}
+
+.produtoimagem{
+    height: 140px;
+}
+
+.preco {
+    font-weight: bold;
+    color: #007bff;
+}
+
+.missao{
+    font-weight: bold
+}
+
+.logo{
+    height: 140px;
+}
